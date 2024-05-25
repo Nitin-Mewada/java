@@ -11,5 +11,4 @@ public class FinallyException {
             System.out.println("This block is always execute ");
         }
     }
-}
-
+}
