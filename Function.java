@@ -7,4 +7,4 @@ public class Function {
         Function ob = new Function();
         ob.f1();
     }
-}
+}
