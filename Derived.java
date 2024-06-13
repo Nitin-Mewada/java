@@ -30,4 +30,3 @@ class Derived extends Base{
     }
 }
 
-
