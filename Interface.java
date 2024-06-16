@@ -10,4 +10,4 @@ public class Interface implements I1 {
         ob.f1();
     }
     
-}
+}
