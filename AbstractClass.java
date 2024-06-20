@@ -14,4 +14,4 @@ public class AbstractClass extends A {
         ob.f1();
         ob.f2();
     }
-}
+}
