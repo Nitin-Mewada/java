@@ -18,4 +18,4 @@ public class AbstractInterface extends Abstract{
         ob.f1();
         ob.f2();
     }
-}
+}
