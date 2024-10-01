@@ -29,4 +29,3 @@ class Derived extends Base{
         ob.show_eid();
     }
 }
-
