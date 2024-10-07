@@ -16,4 +16,3 @@ class FourInput {
 		System.out.println(a+ " " +b +" " +c +" "+d);
 	}
 }
-
