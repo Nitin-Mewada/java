@@ -6,4 +6,4 @@ public class A
         Simple obj = new Simple();
         obj.set(); 
     }   
-}
+}
