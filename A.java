@@ -7,3 +7,4 @@ public class A
         obj.set(); 
     }   
 }
+
