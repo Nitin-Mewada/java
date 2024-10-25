@@ -9,5 +9,5 @@ public class Interface implements I1 {
         Interface ob = new Interface();
         ob.f1();
     }
-    
+   
 }
