@@ -10,8 +10,7 @@ for(int i=0;i<n;i++){
  System.out.print("Enter the"+" "+(i+1)+" "+"Value");
  x=sc.nextInt();
  System.out.println("The"+" "+(i+1)+" "+"Value"+x);
-}
-
+}
 }
 }
 
