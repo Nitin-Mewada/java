@@ -8,3 +8,4 @@ public class Function {
         ob.f1();
     }
 }
+
