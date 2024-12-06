@@ -1,6 +1,4 @@
-/* WAJP to take four input one is int second is float 
-  third is doubled and fourth is string and display the
-  result all of them. */
+
 import java.util.Scanner;
 class FourInput {
 	public static void main(String arg[]){
