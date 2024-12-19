@@ -13,3 +13,4 @@ class InitializeMM{
 		System.out.println(" Third integer value  "+ob.c);
 	}
 }
+
