@@ -6,4 +6,3 @@ class NarrowT{
         System.out.println("After Narrowing "+l);
     }
 }
-
